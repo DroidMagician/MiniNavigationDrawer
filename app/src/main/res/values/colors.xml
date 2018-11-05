@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="tab_bg_color">#555555</color>
+    <color name="green">#018001</color>
+    <color name="grey">#424242</color>
+    <color name="light_blue_old">#702D93D1</color>
+    <color name="light_blue">#BEA65B</color>
+    <color name="orangeold">#ffaa3b</color>
+    <color name="orange">#FFF7DC</color>
+    <color name="green_equity">#1E9F4D</color>
+    <color name="pink_equity">#FF6BF4</color>
+    <color name="blue">#2D93D1</color>
+    <color name="red1">#E60000</color>
+    <color name="red">#ff0000</color>
+    <color name="orange1">#ffaa3b</color>
+    <color name="fabg">#00A7FF</color>
+
+    <color name="grey1">#555555</color>
+    <color name="black_opa">#80000000</color>
+    <color name="blue_dark">#154967</color>
+    <color name="black1">#D9000000</color>
+    <color name="skin_color">#F0EAD5</color>
+    <color name="darkgay">#FF7C7979</color>
+    <color name="tabBackground">#293036</color>
+    <color name="cerulean">#00ACEC</color>
+    <color name="header_color">#003359</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextDisable">#66FFFFFF</color>
+    <color name="colorLightGray">#9E9E9E</color>
+    <color name="colorDefaultBackground">#FFFFFFFF</color>
+
+
+    <color name="segment_selected_color">#565D65</color>
+    <color name="segment_deselected_color">#3B4247</color>
+    <color name="text_selected_color">#ffffff</color>
+    <color name="text_deselected_color">#666D71</color>
+</resources>
